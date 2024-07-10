@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/06/55/02/30/360_F_655023077_x61lPtKJCmMyWGy9znER7GEC9jyJ5v3O.jpg);
+    
+}
+h1{
+color: rgb(240, 246, 243);
+margin-left: 500px;
+}
+h3{
+color: rgb(241, 16, 16);
+margin-left: 500px;
+}
+#btn{
+color: rgb(3, 242, 255);
+margin-left: 500px
+}
+#guessinput{
+color: blueviolet;
+margin-left: 500px;
+}
